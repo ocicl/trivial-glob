@@ -1,0 +1,10 @@
+* trivial-glob
+
+Shell-style glob pattern matching and filesystem globbing for Common Lisp.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/fukamachi/trivial-glob.git |
+| commit  | e9e4fda                                           |
+| systems | trivial-glob                                      |
+|---------+---------------------------------------------------|
+
