@@ -4,7 +4,7 @@ Shell-style glob pattern matching and filesystem globbing for Common Lisp.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/fukamachi/trivial-glob.git |
-| commit  | 5dc3289                                           |
+| commit  | 0c2675d                                           |
 | systems | trivial-glob                                      |
 |---------+---------------------------------------------------|
 
