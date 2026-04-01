@@ -8,3 +8,4 @@ Shell-style glob pattern matching and filesystem globbing for Common Lisp.
 | systems | trivial-glob                                      |
 |---------+---------------------------------------------------|
 
+ 
